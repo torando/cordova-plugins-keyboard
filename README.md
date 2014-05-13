@@ -1,3 +1,8 @@
+**Note:** This is a mirror of the [keyboards][1] plugin, which lives in the
+[cordova-plugins][2] repo. I've extracted it into its own repo so that I can
+`cordova plugin add` an up-to-date version of the plugin. No changes (aside
+from this text you're reading) have been made.
+
 Keyboard
 ======
 
@@ -233,3 +238,6 @@ Supported Platforms
 
 - iOS
 
+
+[1]: https://github.com/apache/cordova-plugins/tree/master/keyboard
+[2]: https://github.com/apache/cordova-plugins/
